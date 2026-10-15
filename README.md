@@ -61,3 +61,4 @@ clipboard history manager, view clipboard history, restore clipboard, clipboard 
  
  
  
+ 
